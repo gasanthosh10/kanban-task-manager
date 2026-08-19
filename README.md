@@ -167,3 +167,4 @@ Please follow [Conventional Commits](https://www.conventionalcommits.org/) for c
 Made with using React + TypeScript + Vite
 
 </div>
+
